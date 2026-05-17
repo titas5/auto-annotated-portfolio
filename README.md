@@ -41,6 +41,19 @@ This outputs your own Netlify visual editor URL. Open this, register or sign in,
 
 ![Next.js Dev + Netlify visual editor dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
 
+## Admin Dashboard Login
+
+This project does not include a separate built-in admin dashboard with a fixed username and password.
+
+To manage or edit the site, use the Netlify visual editor dashboard:
+
+1. Start the Next.js development server with `npm run dev`.
+1. Start the Netlify visual editor server with `stackbit dev`.
+1. Open the visual editor URL printed in the terminal.
+1. Register or sign in with your Netlify account.
+
+There is no default admin username or password in this repository. Use your Netlify account email and password to sign in to the visual editor.
+
 ## Next Steps
 
 Here are a few suggestions on what to do next if you're new to Netlify Visual Editor:
